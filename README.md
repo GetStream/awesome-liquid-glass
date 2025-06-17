@@ -12,28 +12,23 @@ This repo showcases the beauty of liquid glass in different SwiftUI components. 
 --
 
 ## Custom Glass Effect on Different Surfaces: [LiquidGlassHContainer.swift](https://github.com/GetStream/awesome-liquid-glass/blob/main/SwiftFiles/LiquidGlassHContainer.swift)
-
-![Floatin button](GIF Previews/customFloatingGlass.gif)
+![Floatin button](GIFPreviews/customFloatingGlass.gif)
 --
 
 ## Liquid Glass Slider: [LiquidGlassJello.swift](https://github.com/GetStream/awesome-liquid-glass/blob/main/SwiftFiles/LiquidGlassJello.swift)
-
-![Glass slider](GIF Previews/glassSlider.gif)
+![Glass slider](GIFPreviews/glassSlider.gif)
 --
 
 ## Liquid Glass Menu: [LiquidGlassMenu.swift](https://github.com/GetStream/awesome-liquid-glass/blob/main/SwiftFiles/LiquidGlassMenu.swift)
-
-![Glass menu](GIF Previews/liquidGlassMenu.gif)
+![Glass menu](GIFPreviews/liquidGlassMenu.gif)
 --
 
 ## Overlapping Glass: [LiquidGlassRoundedFloating.swift](https://github.com/GetStream/awesome-liquid-glass/blob/main/SwiftFiles/LiquidGlassRoundedFloating.swift)
-
-![Overlapping glass](GIF Previews/overlappingGlass.gif)
+![Overlapping glass](GIFPreviews/overlappingGlass.gif)
 --
 
 ## Custom Glass Floating Button: [CustomGlassEffect.swift](https://github.com/GetStream/awesome-liquid-glass/blob/main/SwiftFiles/CustomGlassEffect.swift)
-
-![Floating glass](GIF Previews/floatingButton.gif)
+![Floating glass](GIFPreviews/floatingButton.gif)
 --
 
 ## Glass on Swappin Views: [LiquidGlassPlayButton.swift](https://github.com/GetStream/awesome-liquid-glass/blob/main/SwiftFiles/LiquidGlassPlayButton.swift)
