@@ -17,7 +17,7 @@ This repo showcases the beauty of liquid glass in different SwiftUI components. 
 
 --
 
-## Liquid Glass Slider: (LiquidGlassJello.swift)[https://github.com/GetStream/awesome-liquid-glass/blob/main/SwiftFiles/LiquidGlassJello.swift]
+## Liquid Glass Slider: [LiquidGlassJello.swift](https://github.com/GetStream/awesome-liquid-glass/blob/main/SwiftFiles/LiquidGlassJello.swift)
 
 --
 
